@@ -1,0 +1,6 @@
+#!name=MitM All Hostnames
+#!desc=MITM 添加 *
+
+
+[MITM]
+hostname = %APPEND% *
